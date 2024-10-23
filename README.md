@@ -26,7 +26,7 @@ if the Age is Less than 18 then you are not eligible for course
 ## How to Use
 1. Clone the repository using the command:
    ```bash
-   git clone https://github.com/AreyMadhav/Oracle_Lab.git
+   git clone https://github.com/AreyMadhav/BCA-CS-028-5th-Year.git
 2. Open the Project in your IDE (VSCode, Vim, Nano, etc)
 3. Compile and run the file to test
 
