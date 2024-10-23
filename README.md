@@ -18,7 +18,7 @@ This exercise illustrates how to create and use a custom exception in Java when 
 ## How to Use
 1. Clone the repository using the command:
    ```bash
-   [git clone {your_repository_link}](https://github.com/AreyMadhav/Oracle_Lab.git)
+   git clone https://github.com/AreyMadhav/Oracle_Lab.git
 2. Open the Project in your IDE (VSCode, Vim, Nano, etc)
 3. Compile and run the file to test
 
