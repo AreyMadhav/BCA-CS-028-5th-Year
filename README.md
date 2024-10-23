@@ -1,7 +1,7 @@
 # Oracle Lab Work - 5th Semester (SCA)
 
 ## Overview
-This repository contains the lab work for the 5th-semester Oracle course. The exercises focus on exception handling in Java, demonstrating both built-in and user-defined exceptions.
+This repository contains the lab work for the 5th-semester Oracle course. The exercises focus on exception handling in PL/SQL Oracle, demonstrating both built-in and user-defined exceptions.
 
 ## Lab Exercises
 
@@ -11,7 +11,7 @@ This exercise demonstrates handling the `ArithmeticException` that occurs during
 [View Code](code_link_from_git_repo)
 
 ### 2. User-Defined Exception
-This exercise illustrates how to create and use a custom exception in Java when specific conditions are met.
+This exercise illustrates how to create and use a custom exception in PL/SQL when specific conditions are met.
 
 [View Code](code_link_from_git_repo)
 
