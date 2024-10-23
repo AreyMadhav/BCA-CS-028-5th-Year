@@ -11,7 +11,7 @@ This repository contains the lab work for the 5th-semester Oracle course. The ex
 ### 1. Exception Handling: Divide by Zero
 This exercise demonstrates handling the `ArithmeticException` that occurs during division by zero.
 
-[View Code](code_link_from_git_repo)
+[View Code](/src/Exception.dbms)
 
 ### 2. User-Defined Exception
 This exercise illustrates how to create and use a custom exception in PL/SQL when specific conditions are met.
