@@ -16,10 +16,12 @@ This exercise demonstrates handling the `ArithmeticException` that occurs during
 ### 2. User-Defined Exception
 This exercise illustrates how to create and use a custom exception in PL/SQL when specific conditions are met.
 
+[View Code](/src/Invalid_Age.dbms)
+
 ### 3. Raise Invalid Age
 if the Age is Less than 18 then you are not eligible for course
 
-[View Code](code_link_from_git_repo)
+[View Code](/src/Invalid_Age.dbms)
 
 ## How to Use
 1. Clone the repository using the command:
