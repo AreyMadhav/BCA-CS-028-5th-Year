@@ -23,6 +23,11 @@ if the Age is Less than 18 then you are not eligible for course
 
 [View Code](/src/Invalid_Age.dbms)
 
+### 4. Too Many Exceptions
+If there are more than just one row then it throws an exception
+
+[View Code](/src/Too_Many_Exception.dbms)
+
 ## How to Use
 1. Clone the repository using the command:
    ```bash
