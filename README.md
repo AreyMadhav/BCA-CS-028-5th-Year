@@ -43,8 +43,8 @@ If there are more than just one row then it throws an exception
 
 
 ### **Project Work**
-Source Code: []
-executable: [https://areymadhav.itch.io/end-of-the-world]
+1. Source Code: []
+2. Executable: [https://areymadhav.itch.io/end-of-the-world]
 
 ## How to Use
 1. Clone the repository using the command:
