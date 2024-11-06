@@ -36,9 +36,9 @@ If there are more than just one row then it throws an exception
 
 [View Code](/src/sum_of_digits.dbms)
 
-### 7. Upcoming
+### 7. Calculate Salary
 
-[View Code](/src/Too_Many_Exceptions.dbms)
+[View Code](/src/sal_calc.dbms)
 
 
 ### **Project Work**
