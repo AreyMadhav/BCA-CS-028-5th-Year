@@ -32,9 +32,9 @@ If there are more than just one row then it throws an exception
 
 [View Code](/src/cursor.dbms)
 
-### 6. Upcoming
+### 6. SUM of Digits
 
-[View Code](/src/Too_Many_Exceptions.dbms)
+[View Code](/src/sum_of_digits.dbms)
 
 ### 7. Upcoming
 
