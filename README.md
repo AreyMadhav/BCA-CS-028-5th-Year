@@ -28,17 +28,18 @@ If there are more than just one row then it throws an exception
 
 [View Code](/src/Too_Many_Exceptions.dbms)
 
-### 5. Implementing Cursors in PL/SQL
-
-[View Code](/src/cursor.dbms)
-
-### 6. SUM of Digits
+### 5. SUM of Digits
 
 [View Code](/src/sum_of_digits.dbms)
 
-### 7. Calculate Salary
+### 6. Calculate Salary
 
 [View Code](/src/sal_calc.dbms)
+
+### 7. Implementing Cursors in PL/SQL
+
+[View Code](/src/cursor.dbms)
+
 
 
 ### **Project Work**
