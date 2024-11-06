@@ -1,0 +1,5 @@
+DECLARE
+  CURSOR emp_cursor IS
+    SELECT emp_name, salary FROM employee WHERE department = 'Sales';
+v_name employee.emp_name%TYPE;
+v_salary employee.salary%TYPE;
